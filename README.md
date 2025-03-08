@@ -1,2 +1,3 @@
 # jslearn
-js series at chai or code
+js series where i will upload my js projects
+
